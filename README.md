@@ -12,7 +12,7 @@ Final Project Mata Kuliah Pengolahan Citra Digital. Studi kasus kami tentang "Pe
 ## Our Team
 | NO | NAMA ANGGOTA | NPM |
 | --- | --- | --- |
-| 1 | Heri Khariono | 18081010002 |
+| 1 | Devan Cakra Mudra Wijaya | 18081010013 |
 | 2 | Rifky Akhmad Fernanda | 18081010126 |
 
 <br>
