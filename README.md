@@ -3,7 +3,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter%20Notebook-light?&style=flat&logo=Jupyter&color=ff6000&logoColor=white)
 
 # Pengolahan-Citra-Digital-Python
-Final Project Mata Kuliah Pengolahan Citra Digital
+Final Project Mata Kuliah Pengolahan Citra Digital - Pengenalan tulisan tangan dengan CNN (Convolutional Neural Network)
 
 <br>
 
